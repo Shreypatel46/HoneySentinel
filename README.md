@@ -6,13 +6,13 @@ This project aims to build a Cloud-based Security Operations Center (SOC) integr
 
 ### Key Objectives:
 
-Deploy honeypots (VMs, databases) to attract attackers and study their behavior.
+->Deploy honeypots (VMs, databases) to attract attackers and study their behavior.
 
-Collect logs and telemetry from various resources.
+->Collect logs and telemetry from various resources.
 
-Use Log Analytics Workspace to centralize data.
+->Use Log Analytics Workspace to centralize data.
 
-Analyze threats in Azure Sentinel for real-time incident detection and response.
+->Analyze threats in Azure Sentinel for real-time incident detection and response.
 
 
 
