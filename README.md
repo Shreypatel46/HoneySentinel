@@ -14,8 +14,6 @@ Use Log Analytics Workspace to centralize data.
 
 Analyze threats in Azure Sentinel for real-time incident detection and response.
 
-Help security analysts track attacker movement and improve defense mechanisms.
-
 
 
 
